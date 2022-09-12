@@ -10,9 +10,9 @@ export default function NavigationBar() {
     <Nav.Link href="#features">Add Student</Nav.Link>
     <Nav.Link href="#pricing">View Students</Nav.Link>
   </Nav>
-</Navbar.Collapse>
-</Container>
-</Navbar>
-</div>
+  </Navbar.Collapse>
+  </Container>
+  </Navbar>
+  </div>
 )
 }
